@@ -1,0 +1,22 @@
+.nav-top {
+    background-color: blue !important;
+}
+
+.nav-menu {
+    color: white !important;
+    background-color: #37cfcf !important;
+    margin: 0.3em !important;
+    border-radius: 0.3em !important;
+    font-weight: bold !important;
+
+}
+
+.btn-pesquisa {
+    color: white !important;
+    background-color: #37cfcf !important;
+    margin: 0.3em !important;
+    border-radius: 0.3em !important;
+    border-color: blue !important;
+    font-weight: bold !important;
+
+}
